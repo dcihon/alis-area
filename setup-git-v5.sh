@@ -68,7 +68,7 @@ sudo git config --system core.editor nano
 #git config --global credential.helper cache
 #git config --global credential.helper 'cache --timeout=32000'
 
-git remote set-url origin git@github.com-edu:erikdubois/$project
+git remote set-url origin git@github.com:dcihon/$project
 
 echo
 tput setaf 3
