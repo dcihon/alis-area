@@ -38,7 +38,7 @@ echo
 
 [ -d $HOME"/DATA" ] || mkdir -p $HOME"/DATA"
 cd ~/DATA
-git clone https://github.com/erikdubois/arcolinux-nemesis
+git clone https://github.com/dcihon/arcolinux-nemesis
 
 echo
 tput setaf 3
